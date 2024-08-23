@@ -1,7 +1,7 @@
 # BradStack
 
 | Tech | Description |
-| --- | --- | --- |
+| --- | --- |
 | [Next.js](https://nextjs.org/) | React framework |
 | [Tailwind CSS](https://tailwindcss.com/) | Utility-first CSS |
 | [tRPC](https://trpc.io/) | Type-safe API |
